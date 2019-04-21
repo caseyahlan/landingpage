@@ -48,36 +48,10 @@ a.anchor {
     background-color:#FFAB91;
 }
 
-#appointment {
-    background-color:#f9efeb;
-}
-
 #submit-button {
     text-align: center;
 }
 
-/* PARALLAX/ABOUT US CSS */
-.parallax-container {
-    height: 500px;
-    margin-top: -30px;
-    z-index: -3;
-}
-.parallax {
-    background: no-repeat;
-    background-size:100% auto;
-    background-image: url(../img/pin-cushion.png);
-    background-size: cover;
-    background-position: center center;
-    min-height: 0px;
-}
-#aboutus {
-    background-color: #FF8A65;
-    padding: 15px;
-    margin-top: -60px;
-}
-.lrg-media-img {
-    height: 0px;
-}
 .space-1 {
     height: 300px;
 }
@@ -85,19 +59,6 @@ a.anchor {
 h2 {
     margin: 0px;
     text-align: center;
-}
-
-
-
-
-#services {
-    background-color: #F8F8F8;
-    padding: 15px;
-}
-
-#contactus {
-    background-color: #F8F8F8;
-    padding: 15px;
 }
 
 .flex-container {
@@ -126,18 +87,11 @@ footer.page-footer {
     margin-top: 0;
 }
 
-.card {
-  text-align: center;
-  margin: 10px;
-}
 
 .contact {
     text-align: left;
 }
 
-.card-title {
-    color: #424141;
-}
 
 .row {
     padding: 5px;
@@ -154,10 +108,6 @@ footer.page-footer {
     padding: 5px;
 }
 
-.card-reveal {
-    text-align: left;
-}
-
 .contact-icon {
     color: #000;
 }
@@ -171,10 +121,6 @@ footer.page-footer {
 .store {
     width: 80%;
     height: auto;
-}
-
-.aboutUsInfo {
-    text-align: center;
 }
 
 
@@ -213,11 +159,6 @@ footer.page-footer {
         margin-top: 5px;
     }
 
-    #aboutus {
-        margin-top: -60px;
-        background-color: #FF8A65;
-    }
-
     .col-contact {
         flex-basis: 100%;
 
@@ -231,9 +172,6 @@ footer.page-footer {
         margin-top: -10px;
     }
 
-    #aboutus {
-        margin-top: 0px;
-    }
 }
 
 
@@ -254,10 +192,6 @@ footer.page-footer {
 
     .lrg-media-img {
         visibility: hidden;
-    }
-
-    #aboutus {
-        margin-top: 40px;
     }
 
     .col-contact {
@@ -288,13 +222,6 @@ footer.page-footer {
 
     .parallax-container {
         margin: 0px;
-        height: 50px;
-    }
-
-    #aboutus {
-        color: #424141;
-        background-color: white;
-        margin-top: 30px;
     }
 
     .col {
@@ -307,10 +234,6 @@ footer.page-footer {
 }
 
 @media (min-width: 1500px) {
-    #aboutus {
-        margin-top: 175px;
-    }
-
     .lrg-media-img {
         margin-top: -20px;
     }
