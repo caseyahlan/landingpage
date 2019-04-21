@@ -151,6 +151,13 @@ footer.page-footer {
     .col {
         flex-basis: 20%;
     }
+}
+
+@media (min-width: 1350px) {
+    /* Parallax/About us CSS */
+    .col {
+        flex-basis: 20%;
+    }
 
     .dropdown-button {
         visibility: hidden;
