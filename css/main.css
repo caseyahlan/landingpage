@@ -39,11 +39,6 @@ a.anchor {
     visibility: hidden;
 }
 
-img.resize {
-  max-width: 50%;
-  max-height: 50%;
-}
-
 .btn {
 
     background-color:#FF8A65;
