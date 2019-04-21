@@ -143,10 +143,6 @@ footer.page-footer {
 }
 
 @media (min-width: 601px) {
-    .pin-media {
-        height: 500px;
-    }
-
     .lrg-media-img {
         height: 0px;
     }
