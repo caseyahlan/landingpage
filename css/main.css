@@ -123,41 +123,9 @@ footer.page-footer {
     height: auto;
 }
 
-
-@media (min-width: 200px) {
-    /* Parallax/About us CSS */
-    .pin-media {
-        height: 0px;
-    }
-    .lrg-media-img {
-        visibility: hidden;
-    }
-    .parallax-container {
-        margin: 0px;
-    }
-    #aboutus {
-        margin-top: 0px;
-        color: #FFFFFF;
-        background-color: #FF8A65;
-    }
-}
-
 @media (min-width: 601px) {
-    .lrg-media-img {
-        height: 0px;
-    }
-
-    .parallax-container {
-        margin-top: 0px;
-    }
-
     .drop-button {
         margin-top: 5px;
-    }
-
-    .col-contact {
-        flex-basis: 100%;
-
     }
 }
 
@@ -176,61 +144,15 @@ footer.page-footer {
     nav img {
         padding-left: 15px;
     }
-
-    .dropdown-button {
-        visibility: hidden;
-    }
-
-    /* PARALLAX/ABOUT US CSS */
-    .pin-media {
-        margin-top: 20px;
-    }
-
-    .lrg-media-img {
-        visibility: hidden;
-    }
-
-    .col-contact {
-        flex-basis: 50%;
-    }
-}
-
-@media (min-width: 993px) {
-    .footer-list {
-        text-align: right;
-    }
 }
 
 @media (min-width: 1150px) {
     /* Parallax/About us CSS */
-    .pin-media {
-        height: 0px;
-        visibility: hidden;
-    }
-
-    .lrg-media-img {
-        visibility: visible;
-        height: 475px;
-        width: auto;
-        min-height: 0px;
-        margin-top: -100px;
-    }
-
-    .parallax-container {
-        margin: 0px;
-    }
-
     .col {
         flex-basis: 20%;
     }
 
-    .footer-list {
-        text-align: right;
-    }
-}
-
-@media (min-width: 1500px) {
-    .lrg-media-img {
-        margin-top: -20px;
+    .dropdown-button {
+        visibility: hidden;
     }
 }
