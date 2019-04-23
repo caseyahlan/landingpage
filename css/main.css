@@ -141,24 +141,14 @@ footer.page-footer {
     color: #000
 }
 
-@media (min-width: 850px) {
-    nav-link {
-      visibility: hidden;
-    }
-}
-
 @media (min-width: 950px) {
     /* NAVBAR CSS */
     nav img {
         padding-left: 15px;
     }
-    .dropdown-button {
-        visibility: hidden;
+    nav-link {
+      visibility: hidden;
     }
-    .strawberry {
-      visibility: hidden
-    }
-
 }
 
 @media (min-width: 1150px) {
