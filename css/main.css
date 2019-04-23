@@ -141,6 +141,16 @@ footer.page-footer {
     color: #000
 }
 
+@media (min-width: 850px) {
+    /* NAVBAR CSS */
+    nav img {
+        padding-left: 15px;
+    }
+    .dropdown-button {
+      visibility: hidden;
+    }
+}
+
 @media (min-width: 950px) {
     /* NAVBAR CSS */
     nav img {
