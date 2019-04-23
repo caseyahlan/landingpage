@@ -141,7 +141,7 @@ footer.page-footer {
     color: #000
 }
 
-@media (min-width: 850px) {
+@media (min-width: 750px) {
     /* NAVBAR CSS */
     nav img {
         padding-left: 15px;
