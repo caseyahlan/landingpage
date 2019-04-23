@@ -57,7 +57,32 @@ h2 {
     text-align: center;
 }
 
-# experience {
+#experience {
+    background-color: #a5d6a7;
+    padding: 15px;
+}
+
+#ourProject {
+    background-color: #F8F8F8;
+    padding: 15px;
+}
+
+#whyFoodFluence {
+  background-color: #a5d6a7;
+  padding: 15px;
+}
+
+#research {
+    background-color: #F8F8F8;
+    padding: 15px;
+}
+
+#ourTeam {
+  background-color: #a5d6a7;
+  padding: 15px;
+}
+
+#contact {
     background-color: #F8F8F8;
     padding: 15px;
 }
