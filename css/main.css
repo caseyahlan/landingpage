@@ -171,3 +171,18 @@ footer.page-footer {
         text-align: right;
     }
 }
+
+@media (min-width: 1500px) {
+    /* Parallax/About us CSS */
+    .col {
+        flex-basis: 20%;
+    }
+
+    .dropdown-button {
+      visibility: hidden;
+    }
+
+    .footer-list {
+        text-align: right;
+    }
+}
