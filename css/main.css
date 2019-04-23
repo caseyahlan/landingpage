@@ -153,10 +153,6 @@ footer.page-footer {
     nav img {
         padding-left: 15px;
     }
-
-    .dropdown-button {
-        visibility: hidden;
-    }
 }
 
 @media (min-width: 993px) {
@@ -173,5 +169,8 @@ footer.page-footer {
 
     .footer-list {
         text-align: right;
+    }
+    .dropdown-button {
+        visibility: hidden;
     }
 }
