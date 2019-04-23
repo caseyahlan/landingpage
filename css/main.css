@@ -142,12 +142,18 @@ footer.page-footer {
 }
 
 @media (min-width: 800px) {
-    .drop-button {
-        margin-top: 5px;
+    nav-link {
+      visibility: hidden;
     }
 }
 
-@media (min-width: 850px) {
+@media (min-width: 900px) {
+    nav-link {
+      visibility: hidden;
+    }
+}
+
+@media (min-width: 950px) {
     /* NAVBAR CSS */
     nav img {
         padding-left: 15px;
