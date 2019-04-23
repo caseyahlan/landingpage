@@ -141,20 +141,27 @@ footer.page-footer {
     color: #000
 }
 
-@media (min-width: 650px) {
+@media (min-width: 601px) {
+    .drop-button {
+        margin-top: 5px;
+    }
+}
+
+
+@media (min-width: 990px) {
     /* NAVBAR CSS */
     nav img {
         padding-left: 15px;
     }
+
     .dropdown-button {
         visibility: hidden;
     }
 }
 
-@media (min-width: 950px) {
-    /* NAVBAR CSS */
-    nav img {
-        padding-left: 15px;
+@media (min-width: 993px) {
+    .footer-list {
+        text-align: right;
     }
 }
 
@@ -163,11 +170,8 @@ footer.page-footer {
     .col {
         flex-basis: 20%;
     }
-}
 
-@media (min-width: 1350px) {
-    /* Parallax/About us CSS */
-    .col {
-        flex-basis: 20%;
+    .footer-list {
+        text-align: right;
     }
 }
