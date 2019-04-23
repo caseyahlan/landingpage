@@ -172,7 +172,7 @@ footer.page-footer {
     }
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 1300px) {
     /* Parallax/About us CSS */
     .col {
         flex-basis: 20%;
