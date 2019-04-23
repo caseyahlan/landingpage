@@ -146,9 +146,6 @@ footer.page-footer {
     nav img {
         padding-left: 15px;
     }
-    nav-link {
-      visibility: hidden;
-    }
 }
 
 @media (min-width: 1150px) {
@@ -156,18 +153,11 @@ footer.page-footer {
     .col {
         flex-basis: 20%;
     }
-    .dropdown-button {
-        visibility: hidden;
-    }
 }
 
 @media (min-width: 1350px) {
     /* Parallax/About us CSS */
     .col {
         flex-basis: 20%;
-    }
-
-    .dropdown-button {
-        visibility: hidden;
     }
 }
