@@ -147,7 +147,16 @@ footer.page-footer {
     }
 }
 
-@media (min-width: 990px) {
+@media (min-width: 970px) {
+    .drop-button {
+        margin-top: 5px;
+    }
+    nav-link {
+      visibility: hidden;
+    }
+}
+
+@media (min-width: 980px) {
     /* NAVBAR CSS */
     nav img {
         padding-left: 15px;
