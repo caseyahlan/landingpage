@@ -57,6 +57,11 @@ h2 {
     text-align: center;
 }
 
+# {
+    background-color: #F8F8F8;
+    padding: 15px;
+}
+
 .flex-container {
   display: flex;
   flex-flow: row wrap;
