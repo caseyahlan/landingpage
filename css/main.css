@@ -161,6 +161,10 @@ footer.page-footer {
     .dropdown-button {
         visibility: hidden;
     }
+    .strawberry {
+      visibility: hidden
+    }
+
 }
 
 @media (min-width: 1150px) {
