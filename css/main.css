@@ -141,13 +141,7 @@ footer.page-footer {
     color: #000
 }
 
-@media (min-width: 800px) {
-    nav-link {
-      visibility: hidden;
-    }
-}
-
-@media (min-width: 900px) {
+@media (min-width: 850px) {
     nav-link {
       visibility: hidden;
     }
